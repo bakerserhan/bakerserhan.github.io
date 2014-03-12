@@ -1,2 +1,2 @@
-bakerserhan.github.io
+MOVED to [](serhanbaker.io)
 =====================
