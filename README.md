@@ -1,2 +1,2 @@
-MOVED to [](serhanbaker.io)
+MOVED to [serhanbaker.io](serhanbaker.io)
 =====================
